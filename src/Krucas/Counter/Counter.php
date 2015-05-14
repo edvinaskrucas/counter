@@ -155,6 +155,8 @@ class Counter
 
             return $values;
         }
+
+        return new Exists(false);
     }
 
     /**
