@@ -18,7 +18,10 @@
   "autoload": {
     "psr-0": {
       "Krucas\\Counter": "src/"
-    }
+    },
+    "files": [
+      "src/Krucas/Counter/helpers.php"
+    ]
   },
   "minimum-stability": "dev"
 }
